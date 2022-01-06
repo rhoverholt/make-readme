@@ -1,10 +1,36 @@
-#Project Title: Create a README.md file
+# Automated README.md Generator
 
-## Description
-This project creates a README.md file by asking a series of questions and writing the results to the README.md file
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Screen Capture
-![alt text](/assets/Images/screenshot.png)
+## Description <a id="description"></a>
+Creates a README file based on user answers to prompted questions
 
-## License
-undefined
+## Table of Contents
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Test](#tests)
+[Questions](#questions)
+
+## Installation <a id="installation"></a>
+Step 1: git clone; Step 2: install node; Step 3: npm install inquirer
+
+## Usage <a id="usage"></a>
+node index.js
+
+[Click to View a Video Demo](https://watch.screencastify.com/v/0jQmPgHdVaYHJkkyCHfI)
+
+## License <a id="license"></a>
+MIT
+
+## Contributing <a id="contributing"></a>
+Anyone may clone or contribute
+
+## Tests <a id="tests"></a>
+Test thoroughly
+
+## Questions <a id="questions"></a>
+To view the GitHub Repository: https://github.com/rhoverholt
+Please contact rhocoding@gmail.com with any questions
