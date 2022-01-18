@@ -110,8 +110,8 @@ const promptUser = () => {
 function init() {
   promptUser()
     // Use writeFileSync method to use promises instead of a callback function
-    .then((answers) => fs.writeFileSync('README.md', generateREADMEText(answers)))
-    .then(() => console.log('Successfully wrote to index.html'))
+    .then((answers) => fs.writeFileSync('newREADME.md', generateREADMEText(answers)))
+    .then(() => console.log('Successfully wrote to newREADME.md'))
     .catch((err) => console.error(err));
 };
 
